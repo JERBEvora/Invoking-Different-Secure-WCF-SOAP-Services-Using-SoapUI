@@ -8,9 +8,9 @@ using System.Text;
 
 namespace AVeryBigSum
 {
-    public class Service1 : IService1
+    public class Avbs : IAvbs
     {
-        public long AVeryBigSum(long[] ar)
+        public long AVeryBS(long[] ar)
         {
             long aVeryBigSum = 0;
 

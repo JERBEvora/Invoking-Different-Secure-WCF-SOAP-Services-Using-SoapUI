@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="AVeryBigSum.Avbs" CodeBehind="Avbs.svc.cs" %>

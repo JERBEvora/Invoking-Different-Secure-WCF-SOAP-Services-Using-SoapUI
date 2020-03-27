@@ -18,7 +18,7 @@ namespace AVeryBigSum
 
                 throw new SecurityTokenException("Username and password required");
 
-            if (!(userName == ConfigurationManager.AppSettings["AVeryBigNum_User"] && password == ConfigurationManager.AppSettings["AVeryBigNum_Pass"]))
+            if (!(userName == ConfigurationManager.AppSettings["AVeryBigSum_User"] && password == ConfigurationManager.AppSettings["AVeryBigSum_Pass"]))
 
                 throw new FaultException(string.Format("Wrong username ({0}) or password ", userName));
 
