@@ -1,2 +1,2 @@
-# testing-wcf-basic-authorization-service-with-soapui-UI
-Testing WCF Basic Authorization Service with SOAP UI
+# Invoking Different Secure WCF SOAP Services using SoapUI
+Invoking Different Secure WCF SOAP Services using SoapUI
