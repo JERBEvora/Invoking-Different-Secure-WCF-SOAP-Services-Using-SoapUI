@@ -1,1 +1,1 @@
-﻿<%@ ServiceHost Language="C#" Debug="true" Service="AVeryBigSum.Avbs" CodeBehind="Avbs.svc.cs" %>
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="AVeryBigSum_BasicAuthentication.Avbs" CodeBehind="Avbs.svc.cs" %>
