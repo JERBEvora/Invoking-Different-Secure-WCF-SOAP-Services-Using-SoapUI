@@ -7,7 +7,7 @@ using System.Linq;
 using System.ServiceModel;
 using System.Web;
 
-namespace AVeryBigSum
+namespace AVeryBigSum_BasicAuthentication
 {
     public class ServiceAuthenticator : UserNamePasswordValidator
     {

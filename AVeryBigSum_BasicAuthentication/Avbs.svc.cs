@@ -6,7 +6,7 @@ using System.ServiceModel;
 using System.ServiceModel.Web;
 using System.Text;
 
-namespace AVeryBigSum
+namespace AVeryBigSum_BasicAuthentication
 {
     public class Avbs : IAvbs
     {
